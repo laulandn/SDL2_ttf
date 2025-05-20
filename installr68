@@ -1,0 +1,3 @@
+cp .libs/libSDL2_ttf.a $HOME/Retro68-build/toolchain/m68k-apple-macos/lib
+mkdir -p $HOME/Retro68-build/toolchain/m68k-apple-macos/include/SDL2
+cp SDL_ttf.h $HOME/Retro68-build/toolchain/m68k-apple-macos/include/SDL2

@@ -1,1 +1,1 @@
-./configure --host=powerpc-apple-macos --enable-harfbuzz=no SDL_LIBS="-L$HOME/Retro68-build/toolchain/powerpc-apple-macos/lib -lSDL2 -lm" SDL_CFLAGS="-I$HOME/Retro68-build/toolchain/powerpc-apple-macos/include/SDL2"
+./configure --host=m68k-apple-macos --enable-harfbuzz=no SDL_LIBS="-L$HOME/Retro68-build/toolchain/m68k-apple-macos/lib -lSDL2 -lm" SDL_CFLAGS="-I$HOME/Retro68-build/toolchain/m68k-apple-macos/include/SDL2"
